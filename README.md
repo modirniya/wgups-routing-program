@@ -1,4 +1,4 @@
-```markdown
+
 # WGUPS Routing Program
 
 ## Overview
@@ -32,4 +32,3 @@ Contributions to the WGUPS Routing Program are welcome! Please feel free to subm
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
